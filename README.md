@@ -1,12 +1,14 @@
-# 💫 About Me:
+# 👋 Hello world, my name's <i>Oury</i>
 
-- 🤷 I am Oury
+## 💫 About Me:
+
 - 📍 Worldwide Frontend dev & UI/UX enthousiast, from Guinea, Africa
 - 🔭 I’m currently working on myself<br>
 - 👯 I’m looking to collaborate on web & mobile projects<br>
 - 🌱 I’m currently learning testing frontend apps w/ React<br>
 - 🤝 I’m looking for help with testing, TDD & improving apps performance<br>
 - 💬 Ask me about JS, React, NextJs, frontend stuff
+- Find more informations on [my website (coming soon)](#)
 
 ## 🤝 Let's connect:
 
@@ -36,7 +38,6 @@
 # 📊 Some GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=ourystd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ourystd&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ourystd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
