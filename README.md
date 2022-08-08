@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="./linkedin_banner.png"/>
+</div>
+
 # 👋 Hello world, my name's <i>Oury</i>
 
 ## 💫 About Me:
