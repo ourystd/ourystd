@@ -14,6 +14,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ourystd)
 
+## 📝 Latest blog posts:
+- [Comment se lancer dans le développement Web?](https://www.kaherecode.com/tutorial/comment-se-lancer-dans-le-developpement-web) <br>
+- [Devenir un-e meilleur-e développeur-se en 7 étapes ?](https://www.kaherecode.com/tutorial/devenir-un-e-meilleur-e-developpeur-se-en-7-etapes)
+
 # 🧰 Some Tools I play with:
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
