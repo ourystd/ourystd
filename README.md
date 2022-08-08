@@ -2,7 +2,7 @@
 
 ## 💫 About Me:
 
-- 📍 Worldwide Frontend dev & UI/UX enthousiast, from Guinea, Africa
+- 📍 Worldwide Frontend dev & UI/UX enthusiast, from Guinea, Africa
 - 🔭 I’m currently working on myself<br>
 - 👯 I’m looking to collaborate on web & mobile projects<br>
 - 🌱 I’m currently learning testing frontend apps w/ React<br>
