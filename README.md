@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning testing frontend apps w/ React<br>
 - 🤝 I’m looking for help with testing, TDD & improving apps performance<br>
 - 💬 Ask me about JS, React, NextJs, frontend stuff
-- Find more informations on [my website](https://www.oury.dev)
+- Find more informations on [my website (www.oury.dev)](https://www.oury.dev)
 
 ## 🤝 Let's connect:
 
