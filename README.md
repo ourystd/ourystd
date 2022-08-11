@@ -4,7 +4,7 @@
 
 # 👋 Hello world, my name's <i>Oury</i>
 
-## 💫 About Me:
+## 💫 About Me
 
 - 📍 Worldwide Frontend dev & UI/UX enthusiast, from Guinea, Africa
 - 🔭 I’m currently working on myself<br>
@@ -14,15 +14,15 @@
 - 💬 Ask me about JS, React, NextJs, frontend stuff
 - Find more informations on [my website (www.oury.dev)](https://www.oury.dev)
 
-## 🤝 Let's connect:
+## 🤝 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ourystd)
 
-## 📝 Latest blog posts:
+## 📝 Latest blog posts
 - [Comment se lancer dans le développement Web?](https://www.kaherecode.com/tutorial/comment-se-lancer-dans-le-developpement-web) <br>
 - [Devenir un-e meilleur-e développeur-se en 7 étapes ?](https://www.kaherecode.com/tutorial/devenir-un-e-meilleur-e-developpeur-se-en-7-etapes)
 
-# 🧰 Some Tools I play with:
+# 🧰 Some Tools I play with
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
@@ -43,7 +43,7 @@
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=plastic&logo=inkscape&logoColor=080A13)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
 
-# 📊 Some GitHub Stats:
+# 📊 Some GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=ourystd&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ourystd&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
