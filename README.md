@@ -19,8 +19,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ourystd)
 
 ## 📝 Latest blog posts
-- [Comment se lancer dans le développement Web?](https://www.kaherecode.com/tutorial/comment-se-lancer-dans-le-developpement-web) <br>
-- [Devenir un-e meilleur-e développeur-se en 7 étapes ?](https://www.kaherecode.com/tutorial/devenir-un-e-meilleur-e-developpeur-se-en-7-etapes)
+- [Monter en compétences sans se laisser piéger par la FOMO](https://blog.oury.dev/articles/monter-en-competences-sans-se-laisser-pieger-par-la-fomo) <br>
+- [C'est peut-être un burnout: partage d'une expérience personnelle](https://blog.oury.dev/articles/c-est-peut-etre-un-burnout-pargate-d-une-experience-personnelle) <br>
+- [Comment se lancer dans le développement Web?](https://www.kahere.academy/tutorial/comment-se-lancer-dans-le-developpement-web) <br>
+- [Devenir un-e meilleur-e développeur-se en 7 étapes ?](https://www.kahere.academy/tutorial/devenir-un-e-meilleur-e-developpeur-se-en-7-etapes)
+- More one [blog.oury.dev](https://blog.oury.dev)
 
 # 🧰 Some Tools I play with
 
